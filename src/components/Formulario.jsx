@@ -1,5 +1,7 @@
 import React from 'react'
 
+import './Formulario.css'
+
 function Formulario() {
 
 
