@@ -26,8 +26,8 @@
     border-bottom-right-radius: 1rem;
   }
 
-  .button.eliminar,
-  .button.eliminar:hover {
+  .button,
+  .button:hover {
     background-color: #c10059;
     color: white;
     margin-top: 2rem;
